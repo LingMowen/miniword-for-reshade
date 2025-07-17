@@ -63,6 +63,14 @@ git push origin new-feature
 2. **官方网站** :可以在[官方网站](https://mowen.biz)反馈。提交时，请尽量提供详细信息，如操作系统、ReShade 版本、问题出现的具体情况等，以便开发者更好地理解和解决问题
 3. **官方QQ群**: 可以前往[官方QQ群](https://qm.qq.com/q/xpsf9NQOVq)
 
+## 参与人员
+TA-RTGI整合包汉化版 作者:Mini鲨鱼辣椒{迷你世界官方策划 丁一洋}
+1. **文件整理**: @凌墨问
+2. **文件收集**: @凌墨问
+3. **技术提供**: Qichee @是史三问呀 天梦零惜 Ty·小年
+4. **预设提供**: 天星 大喵工作室 YiRixc RicoJuly11
+5. **安装器**: @是史三问呀 [项目链接]([https://github.com/LingMowen/miniword-for-reshade/issues](https://github.com/shisanwen-gmail/mini-reshade-installer?tab=readme-ov-file#%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E5%85%89%E5%BD%B1%E5%8C%85%E5%AE%89%E8%A3%85%E5%99%A8))。
+
 ## 许可证
 本项目采用MIT许可证。这意味着你可以自由地对项目代码进行修改，将修改后的版本分发给他人，并且可以将项目用于私人用途。但请确保在使用过程中遵循相关法律法规和道德准则。
 
