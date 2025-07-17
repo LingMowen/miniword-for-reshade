@@ -59,7 +59,7 @@ git push origin new-feature
 
 ## 问题反馈/联系我们
 1. **github**:   若在使用过程中遇到问题或有建议，可在 [项目的 Issues 页面](https://github.com/LingMowen/miniword-for-reshade/issues) 提交问题。提交时，请尽量提供详细信息，如操作系统、ReShade 版本、问题出现的具体情况等，以便开发者更好地理解和解决问题。
-2. **官方网站**: [官方网站](https://mowen.biz)
+2. **官方网站**:  [官方网站](https://mowen.biz)
 3. **官方QQ群**: [官方QQ群](https://qm.qq.com/q/xpsf9NQOVq)
 
 ## 参与人员
