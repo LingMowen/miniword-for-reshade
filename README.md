@@ -17,7 +17,7 @@ Miniword for ReShade 是一个与 ReShade 紧密相关的项目。ReShade 是一
 
 ## 安装步骤
 ### 简便安装方式。
-- [迷你 reshade-installer]([https://github.com/LingMowen/miniword-for-reshade/issues](https://github.com/shisanwen-gmail/mini-reshade-installer?tab=readme-ov-file#%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E5%85%89%E5%BD%B1%E5%8C%85%E5%AE%89%E8%A3%85%E5%99%A8))。
+- [迷你 reshade-installer](https://github.com/shisanwen-gmail/mini-reshade-installer?tab=readme-ov-file#%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E5%85%89%E5%BD%B1%E5%8C%85%E5%AE%89%E8%A3%85%E5%99%A8)。
 
 ### 具体安装流程
 1. **克隆项目代码**：使用以下命令将项目克隆到本地：
@@ -40,7 +40,6 @@ AmountHashes=3
 ### 运行项目
 1. 启动支持 ReShade 的游戏。
 2. 按下 ReShade 的默认快捷键 `Home` 打开 ReShade 菜单。
-3. 在菜单里找到并启用 Miniword for ReShade 的相关功能。
 
 ## 贡献指南
 若你想为该项目贡献代码，请按以下步骤操作：
@@ -65,8 +64,8 @@ git push origin new-feature
 
 ## 参与人员
 TA-RTGI整合包汉化版 作者:Mini鲨鱼辣椒{迷你世界官方策划 丁一洋}
-1. **文件整理**: @凌墨问
-2. **文件收集**: @凌墨问
+1. **文件整理**: @LingMowen
+2. **文件收集**: @LingMowen
 3. **技术提供**: Qichee @是史三问呀 天梦零惜 Ty·小年
 4. **预设提供**: 天星 大喵工作室 YiRixc RicoJuly11
 5. **安装器**:   @是史三问呀 [项目链接](https://github.com/shisanwen-gmail/mini-reshade-installer?tab=readme-ov-file#%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E5%85%89%E5%BD%B1%E5%8C%85%E5%AE%89%E8%A3%85%E5%99%A8)。
