@@ -63,7 +63,6 @@ git push origin new-feature
 3. **官方QQ群**: 可以前往[官方QQ群](https://qm.qq.com/q/xpsf9NQOVq)
 
 ## 参与人员
-TA-RTGI整合包汉化版 作者:Mini鲨鱼辣椒{迷你世界官方策划 丁一洋}
 1. **文件整理**: @LingMowen
 2. **文件收集**: @LingMowen
 3. **技术提供**: Qichee @是史三问呀 天梦零惜 Ty·小年
