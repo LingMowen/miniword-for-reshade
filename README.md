@@ -17,7 +17,7 @@ Miniword for ReShade 是一个与 ReShade 紧密相关的项目。ReShade 是一
 
 ## 安装步骤
 ### 简便安装方式。
-- https://github.com/shisanwen-gmail/mini-reshade-installer?tab=readme-ov-file#%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E5%85%89%E5%BD%B1%E5%8C%85%E5%AE%89%E8%A3%85%E5%99%A8。
+- [迷你 reshade-installer]([https://github.com/LingMowen/miniword-for-reshade/issues](https://github.com/shisanwen-gmail/mini-reshade-installer?tab=readme-ov-file#%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E5%85%89%E5%BD%B1%E5%8C%85%E5%AE%89%E8%A3%85%E5%99%A8))。
 
 ### 具体安装流程
 1. **克隆项目代码**：使用以下命令将项目克隆到本地：
@@ -58,8 +58,10 @@ git push origin new-feature
 ```
 5. **创建 Pull Request**：在 GitHub 上创建一个 Pull Request，详细描述你的修改内容和目的。
 
-## 问题反馈
-若在使用过程中遇到问题或有建议，可在 [项目的 Issues 页面](https://github.com/LingMowen/miniword-for-reshade/issues) 提交问题。提交时，请尽量提供详细信息，如操作系统、ReShade 版本、问题出现的具体情况等，以便开发者更好地理解和解决问题。
+## 问题反馈/联系我们
+1.若在使用过程中遇到问题或有建议，可在 [项目的 Issues 页面](https://github.com/LingMowen/miniword-for-reshade/issues) 提交问题。提交时，请尽量提供详细信息，如操作系统、ReShade 版本、问题出现的具体情况等，以便开发者更好地理解和解决问题。
+2.可以在[官方网站](https://mowen.biz)反馈。提交时，请尽量提供详细信息，如操作系统、ReShade 版本、问题出现的具体情况等，以便开发者更好地理解和解决问题
+3.可以前往[官方QQ群](https://qm.qq.com/q/xpsf9NQOVq)
 
 ## 许可证
 本项目采用MIT许可证。这意味着你可以自由地对项目代码进行修改，将修改后的版本分发给他人，并且可以将项目用于私人用途。但请确保在使用过程中遵循相关法律法规和道德准则。
